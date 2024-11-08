@@ -71,7 +71,7 @@ def main():
         s_content_box.append(s_contents)
         insert.append(s_content_box)
     
-    with open("result.html", mode="w", encoding="utf8") as f:
+    with open("index.html", mode="w", encoding="utf8") as f:
         f.write(soup.prettify())
 
 if __name__ == '__main__': main()
