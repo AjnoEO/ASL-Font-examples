@@ -8,6 +8,14 @@ from random import random
 
 BASE_URL = "https://aslfont.github.io/Symbol-Font-For-ASL/"
 
+def unify(text: str):
+    suffixes_to_remove = [" (with orientation)", " (without)"]
+    for s in suffixes_to_remove:
+        if text.endswith(s):
+            text = text[:-len(s)]
+    return text
+
+
 def main(test: bool = False):
     if test:
         counter = 20
@@ -44,7 +52,7 @@ def main(test: bool = False):
                     last_asl = tag.get_text()
                     continue
                 elif tag.name == 'dd' and last_asl:
-                    last_en = tag.get_text()
+                    last_en = unify(tag.get_text())
                     translations.setdefault(last_en, set())
                     translations[last_en].add(last_asl)
                 last_asl = last_en = None
