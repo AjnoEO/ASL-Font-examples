@@ -537,6 +537,9 @@ dl.inline1 dd { width: 50%; }
 dl.inline1b dt { width: 25%; }
 dl.inline1b dd { width: 75%; }
 
+dl.inline1c dt { width: 75%; }
+dl.inline1c dd { width: 25%; }
+
 dl.inline2 dt { width: 15%; }
 dl.inline2 dd { width: 35%; }
 
@@ -549,8 +552,8 @@ dl.inline2b dd { width: 27%; }
 dl.inline2c dt { width: 25%; }
 dl.inline2c dd { width: 25%; }
 
-dl.inline2d dt { width: 40%; }
-dl.inline2d dd { width: 10%; }
+dl.inline2d dt { width: 35%; }
+dl.inline2d dd { width: 15%; }
 
 dl.inline3 dt { width: 10%; }
 dl.inline3 dd { width: 23%; }
