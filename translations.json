@@ -1,4 +1,181 @@
 {
+    "The side of the nose (location)": [
+        "(|.)"
+    ],
+    "Pinching (contact type)": [
+        "+"
+    ],
+    "Palm faces left (orientation)": [
+        ".'"
+    ],
+    "The F handshape (handshape)": [
+        "f"
+    ],
+    "Movement to the right (motion)": [
+        ">"
+    ],
+    "Cat": [
+        "(|.)f>>",
+        "(|.)+.'f>>"
+    ],
+    "1 X x d": [
+        "1 X x d"
+    ],
+    "l L T t G g F f": [
+        "l L T t G g F f"
+    ],
+    "v V u U n r": [
+        "v V u U n r"
+    ],
+    "3 W H N k K R": [
+        "3 W H N k K R"
+    ],
+    "4 E b e": [
+        "4 E b e"
+    ],
+    "5 S Q M": [
+        "5 S Q M"
+    ],
+    "B c o C O": [
+        "B c o C O"
+    ],
+    "A a s": [
+        "A a s"
+    ],
+    "w m i y Y I": [
+        "w m i y Y I"
+    ],
+    "7 8 D P": [
+        "7 8 D P"
+    ],
+    "up": [
+        "^"
+    ],
+    "forward": [
+        "/"
+    ],
+    "left": [
+        "|<|",
+        "<"
+    ],
+    "down": [
+        "_"
+    ],
+    "back": [
+        "Z",
+        "|Z|"
+    ],
+    "right": [
+        "{1..}%`*`%1",
+        ">",
+        "|>|"
+    ],
+    "circular": [
+        "@"
+    ],
+    "strike/hit": [
+        "!"
+    ],
+    "rub": [
+        ";"
+    ],
+    "brush": [
+        "&"
+    ],
+    "touch": [
+        "*",
+        "{.}P"
+    ],
+    "hold/pinch": [
+        "+"
+    ],
+    "together (examples: America, since)": [
+        ")"
+    ],
+    "opposite (examples: maybe, change)": [
+        "$"
+    ],
+    "symmetrical (examples: family, meet)": [
+        "}{"
+    ],
+    "alternating (examples: friend, toast)": [
+        "$$"
+    ],
+    "Finger bend": [
+        "?"
+    ],
+    "Finger wiggle (alternating)": [
+        "??"
+    ],
+    "With Emphasis": [
+        "!"
+    ],
+    "Pause": [
+        ";"
+    ],
+    "Larger motion": [
+        "(!)"
+    ],
+    "Smaller motion": [
+        "(;)"
+    ],
+    "Faster motion": [
+        "{!}"
+    ],
+    "Slower motion": [
+        "{;}"
+    ],
+    "default face": [
+        ":%|"
+    ],
+    "lip pout (oh-i-see)": [
+        ":%{"
+    ],
+    "yes/no question": [
+        "(:%|"
+    ],
+    "wh question": [
+        "}:%|"
+    ],
+    "small": [
+        "B%``%B<}{",
+        "]:[%*",
+        "]:[%* BB<}{"
+    ],
+    "large": [
+        "{:[%()"
+    ],
+    "surprise": [
+        "({:}%() T(`|`)T^l}{",
+        "({:}%()"
+    ],
+    "foolish": [
+        "]:%]'["
+    ],
+    "near/recent": [
+        ":[%[]"
+    ],
+    "enjoying": [
+        ":%{][}"
+    ],
+    "nod": [
+        "(__)"
+    ],
+    "shake head": [
+        "(<>)"
+    ],
+    "shoulder shift left": [
+        "{<}"
+    ],
+    "shoulder shift right": [
+        "{>}"
+    ],
+    "numbers: 1 2 3 4 ...": [
+        "1 2 3 4"
+    ],
+    "lowercase: a b c d ...": [
+        "a b c d"
+    ],
     "write": [
         "BT"
     ],
@@ -10,12 +187,12 @@
         "B5"
     ],
     "practice": [
-        "1;a/Z/",
-        "1a"
+        "1a",
+        "1;a/Z/"
     ],
     "word": [
-        "{1..}'.**.'g",
-        "1g"
+        "1g",
+        "{1..}'.**.'g"
     ],
     "with": [
         "a%`*`%a",
@@ -60,6 +237,476 @@
     ],
     "T": [
         "T"
+    ],
+    "forehead": [
+        "(`)"
+    ],
+    "brow": [
+        "(``)"
+    ],
+    "back/top of head": [
+        "(```)"
+    ],
+    "nose": [
+        "(|)"
+    ],
+    "eye": [
+        "(|`)"
+    ],
+    "ear": [
+        "(|``)"
+    ],
+    "nostril": [
+        "(|.)"
+    ],
+    "cheek": [
+        "(|..)"
+    ],
+    "chin": [
+        "(.)"
+    ],
+    "side of mouth": [
+        "(..)"
+    ],
+    "jaw": [
+        "(...)"
+    ],
+    "shoulder (left)": [
+        "{`||}"
+    ],
+    "throat": [
+        "{```}"
+    ],
+    "side of neck": [
+        "{``}"
+    ],
+    "shoulder (right)": [
+        "{`}"
+    ],
+    "upper arm": [
+        "{||}"
+    ],
+    "chest (left)": [
+        "{`|}"
+    ],
+    "chest center": [
+        "{|}"
+    ],
+    "chest (right)": [
+        "{|`}"
+    ],
+    "elbow": [
+        "{.||}"
+    ],
+    "stomach": [
+        "{|.|}"
+    ],
+    "waist": [
+        "{|.}"
+    ],
+    "forearm": [
+        "{...}"
+    ],
+    "wrist": [
+        "{..}"
+    ],
+    "back of hand": [
+        "{.}"
+    ],
+    "fingertips": [
+        "{`B}"
+    ],
+    "tip of the thumb": [
+        "{B`}"
+    ],
+    "side/back of the fingers": [
+        "{``B}"
+    ],
+    "between thumb and fingers": [
+        "{B``}"
+    ],
+    "back of the hand": [
+        "{.B}"
+    ],
+    "center of the palm": [
+        "{B.}"
+    ],
+    "side of the hand": [
+        "{..B}"
+    ],
+    "back of the thumb": [
+        "{B..}"
+    ],
+    "first fingertip": [
+        "{`1}"
+    ],
+    "side of first finger": [
+        "{1``}"
+    ],
+    "second fingertip": [
+        "{`v}"
+    ],
+    "between first two fingers": [
+        "{v``}"
+    ],
+    "third fingertip": [
+        "{`w}"
+    ],
+    "between middle two fingers": [
+        "{w``}"
+    ],
+    "fourth fingertip": [
+        "{`i}"
+    ],
+    "between last two fingers": [
+        "{i``}"
+    ],
+    "up and left": [
+        "J"
+    ],
+    "up and right": [
+        "/"
+    ],
+    "down and left": [
+        "Z"
+    ],
+    "down and right": [
+        "\\"
+    ],
+    "forward and left": [
+        "J"
+    ],
+    "forward and right": [
+        "/"
+    ],
+    "back and left": [
+        "Z"
+    ],
+    "back and right": [
+        "\\"
+    ],
+    "up and back": [
+        "J"
+    ],
+    "up and forward": [
+        "/"
+    ],
+    "down and back": [
+        "Z"
+    ],
+    "down and forward": [
+        "\\"
+    ],
+    "wall plane": [
+        "\"",
+        "^@ >@ _@ <@",
+        "(\")",
+        "(@_)",
+        "(@^)"
+    ],
+    "floor plane": [
+        "(@>)",
+        "/@ >@ Z@ <@",
+        "(@<)",
+        "(~)"
+    ],
+    "side wall plane": [
+        "(%)",
+        "(@/)",
+        "/@ _@ Z@ ^@",
+        "(@Z)"
+    ],
+    "above    the non-dominant hand": [
+        "{B^}"
+    ],
+    "below    the non-dominant hand": [
+        "{B_}"
+    ],
+    "left  of the non-dominant hand": [
+        "{B<}"
+    ],
+    "right of the non-dominant hand": [
+        "{B>}"
+    ],
+    "in front of the non-dominant hand": [
+        "{B/}"
+    ],
+    "behind the non-dominant hand": [
+        "{BZ}"
+    ],
+    "top left": [
+        "|J\"|"
+    ],
+    "top": [
+        "|^|",
+        "{`B}'.*-.B_"
+    ],
+    "top right": [
+        "|\"/|"
+    ],
+    "bottom left": [
+        "|Z\"|"
+    ],
+    "bottom": [
+        "|_|"
+    ],
+    "bottom right": [
+        "|\"\\|"
+    ],
+    "front left": [
+        "|J~|"
+    ],
+    "front": [
+        "|/|"
+    ],
+    "front right": [
+        "|~/|"
+    ],
+    "back left": [
+        "|Z~|"
+    ],
+    "back right": [
+        "|~\\|"
+    ],
+    "top back": [
+        "|J%|"
+    ],
+    "top front": [
+        "|%/|"
+    ],
+    "bottom back": [
+        "|Z%|"
+    ],
+    "bottom front": [
+        "|%\\|"
+    ],
+    "strike/hit (examples: table, school, money)": [
+        "!"
+    ],
+    "rub (examples: movie, sorry, week)": [
+        ";"
+    ],
+    "brush (examples: paper, false, feel)": [
+        "&"
+    ],
+    "touch (examples: have, chair, parents)": [
+        "*"
+    ],
+    "hold/pinch (examples: marry, special, cat)": [
+        "+"
+    ],
+    "brows up": [
+        "(:%|"
+    ],
+    "brows up (sad)": [
+        "{:%|"
+    ],
+    "brows down": [
+        "}:%|"
+    ],
+    "squint": [
+        "]:[%|"
+    ],
+    "wide-eyed": [
+        "{:}%|"
+    ],
+    "tense lower lids": [
+        ":[%|"
+    ],
+    "lids down (relaxed)": [
+        "]:%|"
+    ],
+    "eyes closed": [
+        "}%|"
+    ],
+    "eyes shut tight": [
+        "}{%|"
+    ],
+    "wink": [
+        "!%|"
+    ],
+    "nose wrinkle": [
+        ":{%|"
+    ],
+    "smile": [
+        ":%)"
+    ],
+    "frown": [
+        ":%("
+    ],
+    "pout": [
+        ":%[}"
+    ],
+    "tight lips": [
+        ":%]["
+    ],
+    "purse lips": [
+        ":%{][}"
+    ],
+    "puff cheeks": [
+        ":%(*)"
+    ],
+    "small o": [
+        ":%*"
+    ],
+    "show teeth": [
+        ":%[]"
+    ],
+    "open mouth": [
+        ":%()"
+    ],
+    "smile + open": [
+        ":%[)"
+    ],
+    "frown + open": [
+        ":%(]"
+    ],
+    "open with tongue": [
+        ":%(]'"
+    ],
+    "TH": [
+        ":%]'["
+    ],
+    "F": [
+        "F",
+        ":%]("
+    ],
+    "SH": [
+        ":%{[]}"
+    ],
+    "pah": [
+        ":%][%()",
+        ":%][ :%()"
+    ],
+    "pow": [
+        ":%][%()%*",
+        ":%][ :%() :%*"
+    ],
+    "sta": [
+        ":%[] :%()"
+    ],
+    "cha": [
+        ":%{} :%()",
+        ":%{[]}%()",
+        ":%{}%()"
+    ],
+    "la": [
+        ":%]'[ :%(]'"
+    ],
+    "va": [
+        ":%]( :%()"
+    ],
+    "wa": [
+        ":%* :%()"
+    ],
+    "look left": [
+        "<~<"
+    ],
+    "look right": [
+        ">~>"
+    ],
+    "look up": [
+        "^~^"
+    ],
+    "look down": [
+        "_~_"
+    ],
+    "face left": [
+        "(<)"
+    ],
+    "face right": [
+        "(>)"
+    ],
+    "face up": [
+        "(^)"
+    ],
+    "face down": [
+        "(_)"
+    ],
+    "head forward": [
+        "(/)"
+    ],
+    "head back": [
+        "(Z)"
+    ],
+    "shift left": [
+        "{<}"
+    ],
+    "shift right": [
+        "{>}"
+    ],
+    "shrug": [
+        "{^}"
+    ],
+    "handshape": [
+        "1"
+    ],
+    "palm orientation": [
+        ".\""
+    ],
+    "head/body/arm location": [
+        "(`)"
+    ],
+    "non-dominant hand point": [
+        "{`1}"
+    ],
+    "relative location": [
+        "{1^}"
+    ],
+    "reference point": [
+        "|~/|"
+    ],
+    "contact": [
+        "*"
+    ],
+    "motion": [
+        ">@"
+    ],
+    "non-dominant hand motion": [
+        ")"
+    ],
+    "facial expressions": [
+        "(:%|"
+    ],
+    "head movement": [
+        "(_)"
+    ],
+    "shoulder movement": [
+        "{<}"
+    ],
+    "la-la-la": [
+        ":%]'[%%%()'",
+        ":%]'[%%%(]'"
+    ],
+    "sta-sta-sta": [
+        ":%[]%%%()"
+    ],
+    "va-va-va": [
+        ":%](%%%()"
+    ],
+    "Around in a circle": [
+        "@"
+    ],
+    "Around in a circle, then down": [
+        "@_"
+    ],
+    "Around in a circle, then left": [
+        "@<"
+    ],
+    "Around in a circle, then back": [
+        "@Z"
+    ],
+    "Down, then circle around and down again": [
+        "__@"
+    ],
+    "Left, then circle around and left again": [
+        "<<@"
+    ],
+    "Forward, then circle around and forward again": [
+        "//@"
+    ],
+    "Back, then circle around and back again": [
+        "ZZ@"
     ],
     "Monday": [
         "m@"
@@ -127,6 +774,9 @@
     "hour": [
         "B;1/@"
     ],
+    "mouth/chin": [
+        "(.)"
+    ],
     "think": [
         "(`)1"
     ],
@@ -137,9 +787,9 @@
         "(`)5"
     ],
     "mouse": [
-        "(|)&&1<<",
         "(|)&&1",
-        "(|)1"
+        "(|)1",
+        "(|)&&1<<"
     ],
     "rat": [
         "(|)r"
@@ -148,12 +798,12 @@
         "(|)y"
     ],
     "strict": [
-        "(|)V",
-        "(|)*V"
+        "(|)*V",
+        "(|)V"
     ],
     "bird": [
-        "(.)*g??",
-        "(.)g"
+        "(.)g",
+        "(.)*g??"
     ],
     "duck": [
         "(.)N"
@@ -192,9 +842,18 @@
     "V": [
         "V"
     ],
+    "shoulder": [
+        "{`}"
+    ],
+    "chest": [
+        "{|}"
+    ],
+    "back of the other hand": [
+        "{.}"
+    ],
     "boss": [
-        "{`}S",
-        "{`}**S"
+        "{`}**S",
+        "{`}S"
     ],
     "responsible": [
         "{`}M"
@@ -206,18 +865,15 @@
         "{|}*B",
         "{|}B"
     ],
-    "myself ": [
+    "myself": [
         "{|}a"
     ],
     "fine": [
-        "{|}5",
-        "{|}**.'5"
+        "{|}**.'5",
+        "{|}5"
     ],
     "complain": [
         "{|}S"
-    ],
-    "touch": [
-        "{.}P"
     ],
     "set up": [
         "{.}A"
@@ -235,12 +891,15 @@
     "warning": [
         "{.}B"
     ],
+    "grab/pinch": [
+        "+"
+    ],
     "sick": [
         "(`)*P"
     ],
     "forget": [
-        "(`)&P",
-        "(`)&P>"
+        "(`)&P>",
+        "(`)&P"
     ],
     "fake": [
         "(|)&1",
@@ -253,8 +912,8 @@
         "(|)+f"
     ],
     "grass": [
-        "{```}&&~`S//",
-        "(.)&&S"
+        "(.)&&S",
+        "{```}&&~`S//"
     ],
     "clothes": [
         "{`}&&5"
@@ -263,8 +922,8 @@
         "{`}++f"
     ],
     "feel": [
-        "{|}&P^",
-        "{|}&P"
+        "{|}&P",
+        "{|}&P^"
     ],
     "like": [
         "{|}+D"
@@ -282,8 +941,8 @@
         "a&&a"
     ],
     "run": [
-        "L+L",
-        "{LZ}+L/)"
+        "{LZ}+L/)",
+        "L+L"
     ],
     "marry": [
         "C+C"
@@ -300,12 +959,12 @@
         "S++S"
     ],
     "football": [
-        "{5``}`=++=`5",
-        "5++5"
+        "5++5",
+        "{5``}`=++=`5"
     ],
     "english": [
-        "B+C",
-        "{.B}+CZ)"
+        "{.B}+CZ)",
+        "B+C"
     ],
     "stapler": [
         "B++C"
@@ -348,7 +1007,8 @@
         "(|)5_"
     ],
     "cheap": [
-        "B&b_"
+        "B&b_",
+        "B%`&.~b_"
     ],
     "month": [
         "1&1_"
@@ -357,8 +1017,8 @@
         "s__"
     ],
     "strange": [
-        "(|)c_",
-        "(|).'c_-."
+        "(|).'c_-.",
+        "(|)c_"
     ],
     "west": [
         "w<"
@@ -370,8 +1030,8 @@
         "e>"
     ],
     "cat": [
-        "(|)++f>>",
-        "(|.)++f>>"
+        "(|.)++f>>",
+        "(|)++f>>"
     ],
     "ugly": [
         "(|)x>"
@@ -384,8 +1044,8 @@
         "(|)*1/"
     ],
     "watch": [
-        "(.)L/",
-        "{..}**f__"
+        "{..}**f__",
+        "(.)L/"
     ],
     "tend": [
         "{|}*P/"
@@ -401,6 +1061,18 @@
     ],
     "paper": [
         "B&&BZZ"
+    ],
+    "top of signing area": [
+        "|^|"
+    ],
+    "bottom of signing area": [
+        "|_|"
+    ],
+    "left side of signing area": [
+        "|<|"
+    ],
+    "right side of signing area": [
+        "|>|"
     ],
     "tall (person)": [
         "|^|M"
@@ -450,6 +1122,30 @@
     "object on the right": [
         "|>|*S"
     ],
+    "finger symbols": [
+        "\" = ' - % ~",
+        "\" = ' -"
+    ],
+    "thumb symbols": [
+        ". `"
+    ],
+    "palms forward": [
+        "\". .\""
+    ],
+    "palms together": [
+        "%` `%",
+        "'. .'"
+    ],
+    "palms toward signer": [
+        "`= =`",
+        ".\" \"."
+    ],
+    "palms down": [
+        ".- -."
+    ],
+    "palms up": [
+        "`- -`"
+    ],
     "stars": [
         "1\".&&.\"1"
     ],
@@ -469,28 +1165,20 @@
         "(|)*-.I^_^",
         "(|)*-.I^^=."
     ],
-    "more (with orientation)": [
+    "more ": [
+        "O**O",
         "O'.**.'O"
     ],
-    "more (without)": [
-        "O**O"
-    ],
-    "my (with orientation)": [
+    "my ": [
+        "{|}**B",
         "{|}**=`B"
     ],
-    "my (without)": [
-        "{|}**B"
-    ],
-    "lie (with orientation)": [
+    "lie ": [
+        "(.)&b<",
         "(.)&-.b<"
     ],
-    "lie (without)": [
-        "(.)&b<"
-    ],
-    "pick-on (with orientation)": [
-        "1'.**.\"T"
-    ],
-    "pick-on (without)": [
+    "pick-on ": [
+        "1'.**.\"T",
         "1**T"
     ],
     "answer": [
@@ -505,6 +1193,18 @@
     ],
     "U": [
         "U"
+    ],
+    "side of forehead": [
+        "(``)"
+    ],
+    "side of nose": [
+        "(|.)"
+    ],
+    "both sides of nose": [
+        "(.|.)"
+    ],
+    "side of mouth/chin": [
+        "(..)"
     ],
     "uncle": [
         "(``)u<>"
@@ -532,8 +1232,8 @@
         "(|`);=.x__-."
     ],
     "bored": [
-        "(|.)*.'1>\".",
-        "(|.)*1>"
+        "(|.)*1>",
+        "(|.)*.'1>\"."
     ],
     "flower": [
         "(.|.)**O<"
@@ -569,8 +1269,8 @@
         "(..)+x_"
     ],
     "daring": [
-        "(..);=.V_-.",
-        "(..)&V_"
+        "(..)&V_",
+        "(..);=.V_-."
     ],
     "experience": [
         "(..)++Q__"
@@ -589,6 +1289,21 @@
     ],
     "Q": [
         "Q"
+    ],
+    "neck": [
+        "{```}"
+    ],
+    "side of chest": [
+        "{|`}"
+    ],
+    "side of waist": [
+        "{|.}"
+    ],
+    "both sides of chest": [
+        "{`|`}"
+    ],
+    "both sides of waist": [
+        "{.|.}"
     ],
     "bankrupt": [
         "{``}*B<"
@@ -619,6 +1334,12 @@
     ],
     "R": [
         "R"
+    ],
+    "opposite shoulder": [
+        "{`||}"
+    ],
+    "lower arm": [
+        "{...}"
     ],
     "hospital": [
         "{`||}&&u>_"
@@ -656,14 +1377,23 @@
     "X": [
         "X"
     ],
+    "above the other hand": [
+        "{B^}"
+    ],
+    "below the other hand": [
+        "{B_}"
+    ],
+    "in front of the other hand": [
+        "{B/}"
+    ],
+    "behind the other hand": [
+        "{BZ}"
+    ],
     "direct": [
         "{`1}*B_"
     ],
     "goal": [
         "{`1}1//"
-    ],
-    "top": [
-        "{`B}'.*-.B_"
     ],
     "can't": [
         "{`1}.-&-.1_"
@@ -681,8 +1411,8 @@
         "{.a}**a"
     ],
     "help": [
-        "{B.}`-*`%A^)",
-        "{B.}**A"
+        "{B.}**A",
+        "{B.}`-*`%A^)"
     ],
     "label": [
         "{B.}\".&=`u>"
@@ -727,6 +1457,10 @@
     ".==.": [
         ".==."
     ],
+    "hit": [
+        "1!s<",
+        "!"
+    ],
     "farm": [
         "(.);-.5>"
     ],
@@ -743,7 +1477,8 @@
         "{|};.'A^"
     ],
     "slow": [
-        "{.};BZ"
+        "{.};BZ",
+        "{B^}~.;.~BZ"
     ],
     "wood": [
         "{..};B<><"
@@ -756,9 +1491,6 @@
     ],
     "rocket": [
         "B;r^"
-    ],
-    "hit": [
-        "1!s<"
     ],
     "school": [
         "B!!B__"
@@ -821,8 +1553,8 @@
         "{|};O^5"
     ],
     "accept": [
-        "Q*{|}*QZO}{",
-        "{|`}*QZO"
+        "{|`}*QZO",
+        "Q*{|}*QZO}{"
     ],
     "welfare": [
         "|^|L__a"
@@ -835,19 +1567,19 @@
         "Q_O"
     ],
     "want": [
-        "5`~~`5ZS)",
-        "5ZS"
+        "5ZS",
+        "5`~~`5ZS)"
     ],
     "grow": [
-        "c+O^Q",
-        "c%`+~`O^W"
+        "c%`+~`O^W",
+        "c+O^Q"
     ],
     "learn": [
         "B*Q^O"
     ],
     "gone": [
-        "B;S/s",
-        "{B.};S/s"
+        "{B.};S/s",
+        "B;S/s"
     ],
     "win": [
         "{s..}%`&`%S<s",
@@ -860,11 +1592,8 @@
         "{.||}&v>V"
     ],
     "print": [
-        "{B.}**g??",
-        "{B.}*l_F"
-    ],
-    "F": [
-        "F"
+        "{B.}*l_F",
+        "{B.}**g??"
     ],
     "apple": [
         "(|..);=.x__-."
@@ -926,6 +1655,15 @@
     "mirror": [
         "C.'<<\"."
     ],
+    "Fingers bend once": [
+        "?"
+    ],
+    "Fingers bend twice, or": [
+        "??"
+    ],
+    "Fingers wiggle alternately": [
+        "??"
+    ],
     "bug": [
         "(|)*W??"
     ],
@@ -965,6 +1703,18 @@
     "W": [
         "W"
     ],
+    "Hands move together": [
+        ")"
+    ],
+    "Hands move opposite each other": [
+        "$"
+    ],
+    "Hands mirror each other": [
+        "}{"
+    ],
+    "Hands move alternately": [
+        "$$"
+    ],
     "show": [
         "{B.}*1/)"
     ],
@@ -1000,7 +1750,9 @@
         "g\"..\"g??@)"
     ],
     "awkward": [
-        "33^_^$"
+        "33^_^$",
+        "]:%]'[ 33_^_$",
+        "3~..~3_^_$"
     ],
     "explain": [
         "ff/Z/$",
@@ -1016,8 +1768,8 @@
         "P*{|}*PZZ$"
     ],
     "highway": [
-        "{u..}.-&&-.u<<",
-        "u\".;\".uZZ$"
+        "u\".;\".uZZ$",
+        "{u..}.-&&-.u<<"
     ],
     "expression": [
         "x(`)x^_^$"
@@ -1103,8 +1855,8 @@
         "a`==`a/.\"}{"
     ],
     "build": [
-        "{``u}.-&-.u_$$",
-        "u.-&-.u^_$$"
+        "u.-&-.u^_$$",
+        "{``u}.-&-.u_$$"
     ],
     "friend": [
         "X`-+-.X$$"
@@ -1115,32 +1867,101 @@
     "hamburger": [
         "C`-+-.C$$"
     ],
-    "": [
-        "}{%|",
-        ":%[]%%%()",
-        ":%][%()",
-        ":%{[]}",
-        ":%(*)",
-        "}:%|",
-        ":%][%()%*",
-        ":%{[]}%()",
-        ":%[)",
-        ":%()'",
-        ":{%|",
-        ":%()",
-        ":%](%%%()",
-        ":%*",
-        ":%]'[%%%()'",
-        "(:%|",
-        "}%|",
-        ";%|",
-        "}:%(",
-        "(:[%|",
-        "!%|",
-        ":%](",
-        ":%[}",
-        ":%(]",
-        ":%'()"
+    "Head nod": [
+        "(__)"
+    ],
+    "Head shake": [
+        "(<>)"
+    ],
+    "Head forward": [
+        "(/)"
+    ],
+    "Head back": [
+        "(Z)"
+    ],
+    "Shift left": [
+        "{<}"
+    ],
+    "Shift right": [
+        "{>}"
+    ],
+    "Who?": [
+        "(/) (.)*L??"
+    ],
+    "(Very) Recent": [
+        "(Z) (..)**X"
+    ],
+    "Yes": [
+        "(__) s__"
+    ],
+    "No": [
+        "(<>) H__N"
+    ],
+    "I have": [
+        "{|}*1 {`}*M"
+    ],
+    "2 dogs": [
+        "{<} k??g 2"
+    ],
+    "(and) 3 cats": [
+        "{>} (|)++f>> 3"
+    ],
+    "I like them (the dogs)": [
+        "(__) {|}*1 {|}+D |<|1/"
+    ],
+    "(Not) them (the cats).": [
+        "(<>) |>|1/"
+    ],
+    "Other symbols for changing the expression": [
+        "( ) { } [ ] ' *"
+    ],
+    "pursed lips": [
+        ":%{][}"
+    ],
+    ":%)": [
+        ":%)"
+    ],
+    ":%][": [
+        ":%]["
+    ],
+    ":%{][}": [
+        ":%{][}"
+    ],
+    ":%[]": [
+        ":%[]"
+    ],
+    ":%]'[": [
+        ":%]'["
+    ],
+    "(good) self-esteem": [
+        ":%) {.}*O?c"
+    ],
+    "(very) recent": [
+        ":[%[] (..)**X"
+    ],
+    "(enjoying) driving": [
+        "(]:%{][} s.\"\".s//)"
+    ],
+    "Do you like red?": [
+        "(:%| 1/ {|}+D (.)&1_ 1/"
+    ],
+    "Where is the bathroom?": [
+        "}:%| t><> 1><>"
+    ],
+    "I have been to Washington, D.C.": [
+        "(:%| {`}&w//@ dc\n      (__) {.}*P 5.'>.\" {|}*1\n    "
+    ],
+    "palms down (fingers foward)": [
+        "~. .~"
+    ],
+    "palms up (fingers foward)": [
+        "`~ ~`"
+    ],
+    "palms down (fingers together)": [
+        ".- -."
+    ],
+    "palms up (fingers together)": [
+        "`- -`"
     ],
     "look": [
         "v.~/"
@@ -1160,6 +1981,60 @@
     "for": [
         "(`)-.1/.~"
     ],
+    "obsess": [
+        "{B^}.-*.~P//@)"
+    ],
+    "kill": [
+        "B'.&.~1/"
+    ],
+    "undecided": [
+        "{b^}%`*.~M><>"
+    ],
+    "inept": [
+        "o~.+.~5^.\""
+    ],
+    "force": [
+        "{.}.\"c_.~"
+    ],
+    "alligator": [
+        "{S^}`~+.~S__$"
+    ],
+    "die": [
+        "B`~.~B>~`)"
+    ],
+    "can": [
+        "s~..~s_)"
+    ],
+    "shoes": [
+        "s~.**.~s"
+    ],
+    "snow": [
+        "5~..~5??\\/\\"
+    ],
+    "stay": [
+        "y~..~y_"
+    ],
+    "give up": [
+        "B~..~B^.\")"
+    ],
+    "still": [
+        "y~..~y/.\")"
+    ],
+    "walk": [
+        "B~..~B/Z/$"
+    ],
+    "continue": [
+        "A~..~A/)"
+    ],
+    "during": [
+        "1~..~1/"
+    ],
+    "test": [
+        "x\"..\"x_5~..~5"
+    ],
+    "valuable": [
+        "f~..~f>^<}{"
+    ],
     "control": [
         "x%``%x/Z/$"
     ],
@@ -1168,9 +2043,6 @@
     ],
     "judge": [
         "f%``%f^_^$"
-    ],
-    "small": [
-        "B%``%B<}{"
     ],
     "way": [
         "B%``%B/"
@@ -1234,8 +2106,8 @@
         "{B^}.-*~`5ZZS"
     ],
     "technical": [
-        "{..B}`=**~`P",
-        "{B_}`=**~`P"
+        "{B_}`=**~`P",
+        "{..B}`=**~`P"
     ],
     "arrive": [
         "{B.}`-*\".B_~`"
@@ -1264,6 +2136,21 @@
     "Y": [
         "Y"
     ],
+    "floor/ceiling plane": [
+        "~"
+    ],
+    "upper left": [
+        "|J\"|"
+    ],
+    "upper right": [
+        "|\"/|"
+    ],
+    "lower left": [
+        "|Z\"|"
+    ],
+    "lower right": [
+        "|\"\\|"
+    ],
     "vehicle, front left": [
         "|J~|*3"
     ],
@@ -1287,6 +2174,30 @@
     ],
     "looking up at me, lower right": [
         "|\"\\|-.vJ"
+    ],
+    "back of the fingers": [
+        "{``B}"
+    ],
+    "between fingers / thumb": [
+        "{B``}"
+    ],
+    "pinky side of the hand": [
+        "{..B}"
+    ],
+    "thumb side of the hand": [
+        "{B..}"
+    ],
+    "tip of index finger, 5 handshape": [
+        "{`1}5"
+    ],
+    "tip of middle finger, 5 handshape": [
+        "{`v}5"
+    ],
+    "tip of ring finger, 5 handshape": [
+        "{`w}5"
+    ],
+    "tip of pinky, 5 handshape": [
+        "{`i}5"
     ],
     "almost": [
         "{``B}.\"&-`B^"
@@ -1327,9 +2238,6 @@
     "keep": [
         "{k..}%`*`%k"
     ],
-    "right": [
-        "{1..}%`*`%1"
-    ],
     "tease": [
         "{x..}%`&&`%x//"
     ],
@@ -1362,5 +2270,101 @@
     ],
     "hard": [
         "{V..}`=*=`V"
+    ],
+    "Look left": [
+        "<~<"
+    ],
+    "Look right": [
+        ">~>"
+    ],
+    "Look up to the left": [
+        "J~J"
+    ],
+    "Look up": [
+        "^~^"
+    ],
+    "Look up to the right": [
+        "/~/"
+    ],
+    "Look down to the left": [
+        "Z~Z"
+    ],
+    "Look down": [
+        "_~_"
+    ],
+    "Look down to the right": [
+        "\\~\\"
+    ],
+    "Face left": [
+        "(<)"
+    ],
+    "Face right": [
+        "(>)"
+    ],
+    "Face the upper left": [
+        "(J)"
+    ],
+    "Face up": [
+        "(^)"
+    ],
+    "Face the upper right": [
+        "(/)"
+    ],
+    "Face the lower left": [
+        "(Z)"
+    ],
+    "Face down": [
+        "(_)"
+    ],
+    "Face the lower right": [
+        "(\\)"
+    ],
+    "Shrug shoulders": [
+        "{^}"
+    ],
+    "Shoulders down": [
+        "{_}"
+    ],
+    "Shoulder tapped from behind": [
+        "(<) {`}**M"
+    ],
+    "Moon (upper right)": [
+        "/~/ (|`)*G/^"
+    ],
+    "Contempt": [
+        "Z~Z 1'.-.v_"
+    ],
+    "Ceiling": [
+        "^~^ b~..~b>}{"
+    ],
+    "Do you have any quarters?": [
+        "(<) (:%| (`)*.\"P??\\ {|`}*M"
+    ],
+    "No, sorry.": [
+        "(>) H__N {|};a@"
+    ],
+    "I need them for a bus ride.": [
+        "(<) x.~_ (`)-.1/.~ BHs"
+    ],
+    "Do you want to borrow my car?": [
+        "(>) (:%| {|}B s%``%s_^} {k..}*k>"
+    ],
+    "Really?": [
+        "(<) (:%| (.).\"1_.~"
+    ],
+    "Yeah, it's fine.": [
+        "(>) (__) {|}**5"
+    ],
+    "Thanks!": [
+        "(<) (:%) (.)*M<"
+    ],
+    "lower lip pout": [
+        ":%[}"
+    ],
+    "open with tongue down": [
+        ":%()'"
+    ],
+    "open with tongue up": [
+        ":%'()"
     ]
 }
