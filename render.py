@@ -127,6 +127,6 @@ def main():
         insert.append(s_content_box)
     
     with open("index.html", mode="w", encoding="utf8") as f:
-        f.write(soup.prettify())
+        f.write(soup.decode())
 
 if __name__ == '__main__': main()
